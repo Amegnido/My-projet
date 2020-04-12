@@ -1,0 +1,21 @@
+.page{
+	background: #B0E0E6
+}
+
+.img{
+	float : left;
+	width: 500
+}
+ 
+.text{
+	text-align : right;
+	width: 700
+}
+
+body {
+	min-height: 100%;
+	width: 750px;
+	padding: 0 10px;
+	margin: 0 auto;
+	position: relative;
+}
